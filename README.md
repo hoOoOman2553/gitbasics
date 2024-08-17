@@ -1,2 +1,2 @@
-# gitbasics
-git learning
+# Git Basics
+Repository for learning git
